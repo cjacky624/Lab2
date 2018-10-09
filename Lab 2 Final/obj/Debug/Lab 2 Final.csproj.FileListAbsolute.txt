@@ -1,0 +1,7 @@
+c:\users\user\source\repos\Lab 2 Final\Lab 2 Final\obj\Debug\Lab 2 Final.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\Lab 2 Final\Lab 2 Final\obj\Debug\Lab 2 Final.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Lab 2 Final\Lab 2 Final\bin\Debug\Lab 2 Final.exe.config
+c:\users\user\source\repos\Lab 2 Final\Lab 2 Final\bin\Debug\Lab 2 Final.exe
+c:\users\user\source\repos\Lab 2 Final\Lab 2 Final\bin\Debug\Lab 2 Final.pdb
+c:\users\user\source\repos\Lab 2 Final\Lab 2 Final\obj\Debug\Lab 2 Final.exe
+c:\users\user\source\repos\Lab 2 Final\Lab 2 Final\obj\Debug\Lab 2 Final.pdb
