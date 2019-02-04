@@ -14,7 +14,7 @@ namespace Lab2
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Doodoo");
+
             Console.WriteLine("Snug");
             Console.WriteLine("Enter the length of the Snug in feet");
             string snugLength = Console.ReadLine();
